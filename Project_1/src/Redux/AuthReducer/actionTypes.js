@@ -1,2 +1,0 @@
-export const SET_USER_LOGIN = 'SET_USER_LOGIN';
-export const SET_USER_NAVBAR = 'SET_USER_NAVBAR';
